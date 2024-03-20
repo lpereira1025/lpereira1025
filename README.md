@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Lucas Pereira;<br>I've been in the military for eight years;<br>Now after completing graduation, Developer;<br>Knowledge in Html, CSS3, JavaScript, React, TypeScript, Json;<br>I love trails, sports, gym and digital games;
+I'm Lucas Pereira;<br>I've been in the military for eight years;<br>Now after completing graduation, Developer;<br>Knowledge in Html5, CSS3, JavaScript, React, TypeScript ;<br>I love trails, sports, gym and digital games;
 
 
 ## 🌐 Socials:
